@@ -7,7 +7,7 @@
 
 - 📫 Contacte **ericgonzalez@iesebre.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta amb mi:</h3>
 <p align="left">
 <a href="https://twitter.com/eric gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eric gonzalez" height="30" width="40" /></a>
 <a href="https://fb.com/eric gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eric gonzalez" height="30" width="40" /></a>
