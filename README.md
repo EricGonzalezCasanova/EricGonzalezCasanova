@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Eric González</h1>
+<h1 align="center">Bones! 👋, Soc Eric González</h1>
 <h3 align="center">I'm a Student !!</h3>
 
-- 🔭 I’m currently working on [MP10](https://github.com/1ASIX2021-22/MP10)
+- 🔭 Treballant actualment amb [MP10](https://github.com/1ASIX2021-22/MP10)
 
-- 👨‍💻 All of my projects are available at [https://github.com/EricGonzalezCasanova](https://github.com/EricGonzalezCasanova)
+- 👨‍💻 Tots els meus projectes disponibles a [https://github.com/EricGonzalezCasanova](https://github.com/EricGonzalezCasanova)
 
-- 📫 How to reach me **ericgonzalez@iesebre.com**
+- 📫 Contacte **ericgonzalez@iesebre.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
