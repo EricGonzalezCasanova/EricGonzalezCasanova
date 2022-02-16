@@ -5,7 +5,7 @@
 
 - 👨‍💻 Tots els meus projectes disponibles a [https://github.com/EricGonzalezCasanova](https://github.com/EricGonzalezCasanova)
 
-- 📫 Contacte **ericgonzalez@iesebre.com**
+- 📫 Correu electrònic **ericgonzalez@iesebre.com**
 
 <h3 align="left">Contacta amb mi:</h3>
 <p align="left">
