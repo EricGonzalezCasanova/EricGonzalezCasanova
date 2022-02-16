@@ -1,4 +1,4 @@
-<h1 align="center">Bones! 👋, Soc Eric González</h1>
+<h1 align="center">Hola! 👋, Soc Eric González</h1>
 <h3 align="center">Estudiant !!</h3>
 
 - 🔭 Treballant actualment amb [MP10](https://github.com/1ASIX2021-22/MP10)
