@@ -1,3 +1,15 @@
+<body>
+<h1 align="center">~ 👋Benvinguts al meu Pefil👋 ~</h1>
+<br>
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+</div>
+<br>
+<div>
+<h2 align="center"> 👾 ~ Sobre mí ~ 👾 </h2>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="373.5px" height="208.5px">
+<li>
+<b>Name:</b> Eric</li>
 <li>
 <b>Gender:</b> He
 </li>
